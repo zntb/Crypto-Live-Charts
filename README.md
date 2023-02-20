@@ -1,4 +1,4 @@
-# coinvest
+Live charts
 BTC
 ETH
 XRP
